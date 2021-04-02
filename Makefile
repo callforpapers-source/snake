@@ -1,7 +1,7 @@
 default: build
 
 build:
-	go build -v -o ./bin/snake
+	go build -v -o ./snake
 
 run: build
-	./bin/snake
+	./snake
