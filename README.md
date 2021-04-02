@@ -17,11 +17,6 @@ It took four days
 
 ## Install
 
-### From source
-```
-go get github.com/callforpapers-source/snake
-"$GOPATH/bin/evine"
-```
 ### From GitHub
 ```
 git clone https://github.com/callforpapers-source/snake
